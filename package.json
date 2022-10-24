@@ -1,0 +1,30 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "OOP",
+  "main": "index.js",
+  "directories": {
+    "positions": "positions",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "",
+    "url": "git+https://github.com/KittenKnight06/team-profile-generator.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/KittenKnight06/team-profile-generator",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "bugs": {
+    "url": "https://github.com/KittenKnight06/team-profile-generator/issues"
+  },
+  "keywords": []
+}
